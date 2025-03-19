@@ -1,0 +1,7 @@
+I) Docker config:
+
+- Dockerize:
+
+- finish front(style.css, finish the tuto)
+- script with env var
+- Complete env file 
